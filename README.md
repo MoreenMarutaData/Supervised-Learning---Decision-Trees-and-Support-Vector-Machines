@@ -2,7 +2,7 @@
 
 Classifications
 
-This repository contains the results and technical aspects of the Data Science Core IP at Moringa where Nairobi Hospital conducted a clinical camp to test for hypothyroidism. 
+This repository contains the results and technical aspects of the Data Science Core IP at Moringa where Nairobi Hospital conducted tests for hypothyroidism. 
 The data collected focused on Thyroid patients. It also contains necessary exercises and challenges i did to practise decision trees and support vector machines.
 
 I used the healthcare datasets provided to build a model that determines whether or not the patient's symptoms indicate that a patient has hypothyroid or hyperthyroid.
