@@ -8,6 +8,7 @@ The data collected focused on Thyroid patients. It also contains necessary exerc
 I used the healthcare datasets provided to build a model that determines whether or not the patient's symptoms indicate that a patient has hypothyroid or hyperthyroid.
 The following approaches were used to achieve the objective.
 
+* Approach 0: Random forest Regressor
 * Approach 1: Random forest classifier
 * Approach 2: Ada boost
 * Approach 3: Gradient boost
